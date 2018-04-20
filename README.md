@@ -1,0 +1,2 @@
+# Dastur
+Tekshiruv uchun
